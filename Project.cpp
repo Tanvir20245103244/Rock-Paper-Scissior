@@ -98,7 +98,7 @@ int main()
     char computermove = getComputerMove();
 
     int result = getresult(playermove, computermove);
-//showing moves 
+//showing moves of computer and player
     cout << "Computer move:" << computermove << endl;
     cout << "Player move:" << playermove << endl;
 //results
